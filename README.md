@@ -1,4 +1,4 @@
-# lockdown-android
+# Lockdown
 Lockdown is a board game with chance cards and more!
 
 # How to play:
